@@ -28,24 +28,12 @@ MarkDown语法学习
 
 ***粗斜体***
 
-Unordered list one:
+[my web] [link text](https://www.baidu.com "baidu")
 
-*one
-  *two
-  *three
+[link text][1][2]
+[1]:http://www.baidu.com "baidu"
+[2]:http://www.hao123.com "hao123"
 
-+list two
-  +one
-    +two 
-  +three
 
--list three
-  -one
-    -two
-      -three
-
-Ordered list:
-  1.one
-  2.two
-  3.three
-
+my email:
+<TingXqt@163.com>
