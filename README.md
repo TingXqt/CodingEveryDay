@@ -30,7 +30,7 @@ MarkDown语法学习
 
 [my web] [baidu](https://www.baidu.com "baidu")
 
-[baidu][1]
+[baidu][1][hao123]
 [1]:http://www.baidu.com "baidu"
 </br>
 [hao123]:http://www.hao123.com "hao123"
@@ -38,3 +38,12 @@ MarkDown语法学习
 
 my email:
 <TingXqt@163.com>
+
+```C++
+#include <iostream>
+int main(void)
+{
+  return 0;
+}
+```
+  
