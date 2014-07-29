@@ -28,23 +28,24 @@ MarkDown语法学习
 
 ***粗斜体***
 
-Unordered list one
+Unordered list one:
+
 *one
-*two
-*three
+  *two
+  *three
 
 +list two
-+one
-+two 
-+three
+  +one
+    +two 
+  +three
 
 -list three
--one
--two
--three
+  -one
+    -two
+      -three
 
 Ordered list:
-1.one
-2.two
-3.three
+  1.one
+  2.two
+  3.three
 
