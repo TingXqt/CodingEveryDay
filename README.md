@@ -28,11 +28,12 @@ MarkDown语法学习
 
 ***粗斜体***
 
-[my web] [link text](https://www.baidu.com "baidu")
+[my web] [baidu](https://www.baidu.com "baidu")
 
-[link text][1][2]
+[baidu][1]
 [1]:http://www.baidu.com "baidu"
-[2]:http://www.hao123.com "hao123"
+</br>
+[hao123]:http://www.hao123.com "hao123"
 
 
 my email:
