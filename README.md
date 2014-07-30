@@ -15,7 +15,10 @@ MarkDown语法学习
 #####H5
 ######H6
 
+<<<<<<< HEAD
 h1和h2的另一种显示方式
+=======
+>>>>>>> 01d3557da875911f7f2515670b31920dea9a1336
 
 一级标题
 ===
@@ -29,6 +32,7 @@ h1和h2的另一种显示方式
 
 ***粗斜体***
 
+<<<<<<< HEAD
 
 
 *list one
@@ -53,3 +57,24 @@ or
 
 <TingXqt@163.com>
 
+=======
+[my web] [baidu](https://www.baidu.com "baidu")
+
+[baidu][1][hao123]
+[1]:http://www.baidu.com "baidu"
+</br>
+[hao123]:http://www.hao123.com "hao123"
+
+
+my email:
+<TingXqt@163.com>
+
+```C++
+#include <iostream>
+int main(void)
+{
+  return 0;
+}
+```
+  
+>>>>>>> 01d3557da875911f7f2515670b31920dea9a1336
